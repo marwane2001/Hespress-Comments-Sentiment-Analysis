@@ -4,6 +4,7 @@ This Project was made for Academic Purposes
 Requirements:
 <br>
 -Firefox Browser(in order to run GeckoDriver)
+<br>
 The Packages Used for the project:
 <br>
 pip install selenium
