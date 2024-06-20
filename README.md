@@ -3,6 +3,8 @@ This Project was made for Academic Purposes
 <br>
 The Packages Used for the project:
 <br>
+pip install selenium
+<br>
 !pip install pandas
 <br>
 !pip install matplotlib
