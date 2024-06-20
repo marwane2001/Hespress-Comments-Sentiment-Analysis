@@ -1,6 +1,9 @@
 # Hesspress-Comments-Sentiment-Analysis
 This Project was made for Academic Purposes
 <br>
+Requirements:
+<br>
+-Firefox Browser(in order to run GeckoDriver)
 The Packages Used for the project:
 <br>
 pip install selenium
