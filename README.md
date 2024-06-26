@@ -5,7 +5,7 @@
 <br>
 -Firefox Browser(in order to run GeckoDriver)
 <br>
-1-The Packages Used for the project:
+1-The Librairies Used for the project:
 <br>
 pip install selenium
 <br>
