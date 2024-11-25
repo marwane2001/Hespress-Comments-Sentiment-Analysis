@@ -1,24 +1,20 @@
-# Hesspress-Comments-Sentiment-Analysis
-!!This Project was made for Academic Purposes!!
-<br>
-0-Requirements:
-<br>
--Firefox Browser(in order to run GeckoDriver)
-<br>
-1-The Librairies Used for the project:
-<br>
+# 🎓 Hesspress Comments Sentiment Analysis 🎓
+
+**This Project was made for Academic Purposes** 📚
+
+## Requirements 🛠️
+- Python 3.11 (Make sure you have this version installed) 🐍
+- Firefox Browser (to run GeckoDriver) 🦊
+
+## Libraries Used 📚
+To install the necessary libraries, run the following commands:
+
+```bash
 pip install selenium
-<br>
-!pip install pandas
-<br>
-!pip install matplotlib
-<br>
-!pip install nltk
-<br>
-!pip install arabic_reshaper
-<br>
-!pip install python-bidi
-<br>
-!pip install pyarabic
-<br>
-!pip install -U scikit-learn
+pip install pandas
+pip install matplotlib
+pip install nltk
+pip install arabic_reshaper
+pip install python-bidi
+pip install pyarabic
+pip install -U scikit-learn
